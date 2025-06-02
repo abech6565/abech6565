@@ -19,7 +19,7 @@ Throughout my career I have worked with teams in strategy, credit risk modeling,
 
 ## 📊 Featured Projects
 
-Take a look at a few of my projects featured in my [Project Portfolio](https://github.com/abech6565/project-examples) 
+Take a look at a few of my projects featured in my [Project Portfolio](https://github.com/abech6565/project-examples). Most of these contain presentations & code examples. 
 
 :star: [Text Mining & Analytics on Complaint Data](https://github.com/abech6565/project-examples/tree/main/Consumer%20Card%20Complaints%20Analysis) 
 - Extracted themes from consumer feedback and built compelling visuals. 
@@ -33,3 +33,13 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 
 :star: [Three Statement Financial Model](https://github.com/abech6565/project-examples/tree/main/Financial%20Modeling)
 - Built an Excel-based financial model projecting balance sheet, income, and cash flow statements for student loan lender $SLM.
+
+## Currently Exploring ....
+- High Dimensional Data Analysis & dimensionality reduction techniques (*new example projects coming soon!*)
+- Time Series modeling (*LSTM, ARIMAX*)
+- Returning to the Fintech space! 
+- Financial Risk Manager Level 1 Exam
+
+## Connect with me: 
+- [LinkedIn:](https://www.linkedin.com/in/alex-bechler-a77408b4/)
+- [Email](abech6565@gmail.com)  
