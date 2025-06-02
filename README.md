@@ -5,7 +5,7 @@ I am passionate about helping financial institutions make smarter decisions usin
 
 I enjoy building statistical models, conducting data mining and learning on a complicated dataset, developing business cases, and communicating results through data storytelling. 
 
-Throughout my career I have worked with teams in strategy, credit risk modeling, fraud analytics, product analytics, and statistical forecasting. 
+Throughout my career I have worked with teams in strategy, credit risk modeling, fraud analytics, product analytics, and statistical modeling. 
 
 ## 💻 Technical Skillset
 
