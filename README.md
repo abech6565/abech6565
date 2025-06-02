@@ -34,12 +34,12 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 :star: [Three Statement Financial Model](https://github.com/abech6565/project-examples/tree/main/Financial%20Modeling)
 - Built an Excel-based financial model projecting balance sheet, income, and cash flow statements for student loan lender $SLM.
 
-## Currently Exploring ....
+## 🚲Currently Exploring ....
 - High Dimensional Data Analysis & dimensionality reduction techniques (*new example projects coming soon!*)
 - Time Series modeling (*LSTM, ARIMAX*)
 - Returning to the Fintech space! 
 - Financial Risk Manager Level 1 Exam
 
-## Connect with me: 
+## 📱Connect with me: 
 - [LinkedIn:](https://www.linkedin.com/in/alex-bechler-a77408b4/)
 - Email:abech6565@gmail.com 
