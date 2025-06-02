@@ -41,5 +41,5 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 - Financial Risk Manager Level 1 Exam
 
 ## 📱Connect with me: 
-- [LinkedIn:](https://www.linkedin.com/in/alex-bechler-a77408b4/)
+- [LinkedIn](https://www.linkedin.com/in/alex-bechler-a77408b4/)
 - Email:abech6565@gmail.com 
