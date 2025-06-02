@@ -15,7 +15,6 @@ Throughout my career I have worked with teams in strategy, credit risk modeling,
 
 **Skills**: Statistical Modeling (*Linear/Logistic Regression, xGBoost, Random Forest - to name a few*), Monte-Carlo Markov Chains, Financial Modeling
 
-**Certifications** Financial Risk Manager (FRM) - *In progress* 
 
 ## 📊 Featured Projects
 
@@ -39,7 +38,7 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 - Time Series modeling (*LSTM, ARIMAX*)
 - Monte Carlo Simulation Examples (specifically .. in the risk space) 
 - Returning to the Fintech space! 
-- Financial Risk Manager Level 1 Exam
+- **Certifications** Financial Risk Manager (FRM) - *In progress* 
 
 ## 📱Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/alex-bechler-a77408b4/)
