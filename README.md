@@ -13,7 +13,7 @@ Throughout my career I have worked with teams in strategy, credit risk modeling,
 
 **Technology Tools**: Tidyverse, Tableau/PowerBI, and Shiny
 
-**Skills**: Statistical Modeling (*Linear/Logistic Regression, xGBoost, Random Forest - to name a few*), Monte-Carlo Markov Chains, Financial Modeling
+**Skills**: Quantitative analytics, Statistical Modeling (*Linear/Logistic Regression, xGBoost, Random Forest - to name a few*), Monte-Carlo Markov Chains, Financial Modeling, quantitative finance
 
 
 ## 📊 Featured Projects
