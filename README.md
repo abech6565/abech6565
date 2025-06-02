@@ -43,4 +43,4 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 
 ## 📱Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/alex-bechler-a77408b4/)
-- Email:abechler3@gatech.edu
+- Email: abechler3@gatech.edu
