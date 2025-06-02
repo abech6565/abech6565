@@ -37,6 +37,7 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 ## 🚲Currently Exploring ....
 - High Dimensional Data Analysis & dimensionality reduction techniques (*new example projects coming soon!*)
 - Time Series modeling (*LSTM, ARIMAX*)
+- Monte Carlo Simulation Examples (specifically .. in the risk space) 
 - Returning to the Fintech space! 
 - Financial Risk Manager Level 1 Exam
 
