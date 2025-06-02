@@ -1,4 +1,4 @@
-## Hi, I'm Alex Bechler. 
+## Hi, 👋 I'm Alex Bechler. 
 I'm a data scientist and statistician with 10+ years of experience working across multiple areas including risk, product, and marketing. 
 
 I am passionate about helping financial institutions make smarter decisions using data. I believe the most powerful statistical solutions are the ones that can be easily understood and that nothing is more important than telling a compelling story through clear, intuitive visuals.
@@ -7,7 +7,7 @@ I enjoy building statistical models, conducting data mining and learning on a co
 
 Throughout my career I have worked with teams in strategy, credit risk modeling, fraud analytics, product analytics, and statistical forecasting. 
 
-## Technical Skillset
+## 💻 Technical Skillset
 
 **Programming Languages**: R, Python, SAS, SQL 
 
@@ -17,10 +17,12 @@ Throughout my career I have worked with teams in strategy, credit risk modeling,
 
 **Certifications** Financial Risk Manager (FRM) - *In progress* 
 
-## Featured Projects
+## 📊 Featured Projects
 
 Take a look at a few of my projects featured in my [Project Portfolio](https://github.com/abech6565/project-examples) 
 
-[Text Mining & Analytics on Complaint Data](https://github.com/abech6565/project-examples/tree/main/Consumer%20Card%20Complaints%20Analysis) 
+:star: [Text Mining & Analytics on Complaint Data](https://github.com/abech6565/project-examples/tree/main/Consumer%20Card%20Complaints%20Analysis) 
 - Extracted themes from consumer feedback and built compelling visuals. 
 
+:star: [Credit Risk Modeling](https://github.com/abech6565/project-examples/tree/main/Credit%20Risk%20Modeling)
+- 
