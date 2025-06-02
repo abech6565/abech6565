@@ -8,14 +8,19 @@ I enjoy building statistical models, conducting data mining and learning on a co
 Throughout my career I have worked with teams in strategy, credit risk modeling, fraud analytics, product analytics, and statistical forecasting. 
 
 ## Technical Skillset
+
 **Programming Languages**: R, Python, SAS, SQL 
+
 **Technology Tools**: Tidyverse, Tableau/PowerBI, and Shiny
+
 **Skills**: Statistical Modeling (*Linear/Logistic Regression, xGBoost, Random Forest - to name a few*), Monte-Carlo Markov Chains, Financial Modeling
+
 **Certifications** Financial Risk Manager (FRM) - *In progress* 
 
 ## Featured Projects
 
 Take a look at a few of my projects featured in my [Project Portfolio](https://github.com/abech6565/project-examples) 
-- [Text Mining & Analytics on Complaint Data](https://github.com/abech6565/project-examples/tree/main/Consumer%20Card%20Complaints%20Analysis) 
+
+[Text Mining & Analytics on Complaint Data](https://github.com/abech6565/project-examples/tree/main/Consumer%20Card%20Complaints%20Analysis) 
 - Extracted themes from consumer feedback and built compelling visuals. 
 
