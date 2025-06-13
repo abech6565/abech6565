@@ -1,4 +1,4 @@
-    ## Hi, 👋 I'm Alex Bechler. 
+## Hi, 👋 I'm Alex Bechler. 
 I'm a data scientist and statistician with 10+ years of experience working across multiple areas including risk, product, and marketing. 
 
 I am passionate about helping financial institutions make smarter decisions using data. I believe the most powerful statistical solutions are the ones that can be easily understood and that nothing is more important than telling a compelling story through clear, intuitive visuals.
