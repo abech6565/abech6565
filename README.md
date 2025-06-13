@@ -1,4 +1,4 @@
-## Hi, 👋 I'm Alex Bechler. 
+    ## Hi, 👋 I'm Alex Bechler. 
 I'm a data scientist and statistician with 10+ years of experience working across multiple areas including risk, product, and marketing. 
 
 I am passionate about helping financial institutions make smarter decisions using data. I believe the most powerful statistical solutions are the ones that can be easily understood and that nothing is more important than telling a compelling story through clear, intuitive visuals.
@@ -37,7 +37,6 @@ Take a look at a few of my projects featured in my [Project Portfolio](https://g
 - High Dimensional Data Analysis & dimensionality reduction techniques (*new example projects coming soon!*)
 - Time Series modeling (*LSTM, ARIMAX*)
 - Monte Carlo Simulation Examples (specifically .. in the risk space) 
-- Returning to the Fintech space! 
 - **Certifications** Financial Risk Manager (FRM) - *In progress* 
 
 ## 📱Connect with me: 
